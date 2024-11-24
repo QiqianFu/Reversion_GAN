@@ -1,0 +1,22 @@
+{
+    "0.png": [
+        "cat {} chair",
+        "a cat {} a chair",
+        "a black and white cat {} a brown chair",
+        "a black and white cat {} a wooden chair, simple background",
+        "a cat sitting {} a wooden chair",
+		"a cat perched {} a brown chair",
+        "a black and white cat {} a chair in a neutral background",
+        "a playful cat {} a chair",
+        "a curious cat {} a chair"
+    ],
+    "1.png": [
+        "pot {} stool",
+        "a pot {} a stool",
+        "a pot with green plant {} a wooden stool",
+        "a pot with green plant {} a wooden stool, indoor",
+        "a black pot {} supported by a light wooden stool",
+        "a leafy plant {} inside a black pot on a stool",
+        "a black pot {} resting on a wooden base"
+    ]
+}
