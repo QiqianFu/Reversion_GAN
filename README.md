@@ -45,7 +45,7 @@ The are no extra dependencies other than the ones in the original project.
    pip install -r requirements.txt
    ```
 
-## : heart: Acknowledgement   
+## :heart: Acknowledgement   
 
 This project is built using the following open source repositories:
 - [Stable Diffusion 1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5)
