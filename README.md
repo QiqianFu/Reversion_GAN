@@ -1,13 +1,14 @@
 # ECE449 Final Project: Emhancement of ReVersion Model in Few-shot Scenario
 
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqihuangg/ReVersion&right_color=MediumAquamarine) -->
-[![Original Project Page](https://img.shields.io/badge/Project-Website-66cdaa?logo=googlechrome&logoColor=66cdaa)](https://ziqihuangg.github.io/projects/reversion.html)
-
 This repository is built upon the following paper:
 > **ReVersion: Diffusion-Based Relation Inversion from Images**<br>
 > [Ziqi Huang](https://ziqihuangg.github.io/)<sup>∗</sup>, [Tianxing Wu](https://tianxingwu.github.io/)<sup>∗</sup>, [Yuming Jiang](https://yumingj.github.io/), [Kelvin C.K. Chan](https://ckkelvinchan.github.io/), [Ziwei Liu](https://liuziwei7.github.io/)<br>
 
 From [MMLab@NTU](https://www.mmlab-ntu.com/) affiliated with S-Lab, Nanyang Technological University
+
+You can also find the original project at <!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=ziqihuangg/ReVersion&right_color=MediumAquamarine) -->
+[![Original Project Page](https://img.shields.io/badge/Project-Website-66cdaa?logo=googlechrome&logoColor=66cdaa)](https://ziqihuangg.github.io/projects/reversion.html)
+
 
 <!-- [[Paper](https://arxiv.org/abs/2303.13495)] | -->
 <!-- [[Original Project Page](https://ziqihuangg.github.io/projects/reversion.html)] | -->
