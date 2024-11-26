@@ -1,4 +1,4 @@
-# ECE449 Final Project: Emhancement of ReVersion Model in Few-shot Scenarios
+# ECE449 Final Project: Enhancing ReVersion Model under Few-shot Scenarios
 
 This repository is built upon the following paper:
 > **ReVersion: Diffusion-Based Relation Inversion from Images**<br>
