@@ -10,7 +10,7 @@ This repository is built upon the following paper:
 From [MMLab@NTU](https://www.mmlab-ntu.com/) affiliated with S-Lab, Nanyang Technological University
 
 <!-- [[Paper](https://arxiv.org/abs/2303.13495)] | -->
-<!-- [[Project Page](https://ziqihuangg.github.io/projects/reversion.html)] | -->
+<!-- [[Original Project Page](https://ziqihuangg.github.io/projects/reversion.html)] | -->
 <!-- [[Video](https://www.youtube.com/watch?v=pkal3yjyyKQ)] |  -->
 <!-- [[Dataset](https://drive.google.com/drive/folders/1FU1Ni-oDpxQCNYKo-ZLEfSGqO-j_Hw7X?usp=sharing)]  -->
 <!-- [[Huggingface Demo](https://huggingface.co/spaces/Ziqi/ReVersion)] | -->
