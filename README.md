@@ -24,7 +24,7 @@ In this project, we focus on the concept of few-shot relation personalization. W
 
 We started from the **ReVersion** model as baseline. When running the **ReVersion** model, we found that although the model can generate diverse images with constant relationship between entities, it would generate strange or constant entities if the training samples are reduced. Therefore, we leveraged LLM and GAN to enhance the model's few-shot ability.
 
-See `report` for more details.
+See `ECE449_report` for more details.
 
 ## :hammer: Installation
 
